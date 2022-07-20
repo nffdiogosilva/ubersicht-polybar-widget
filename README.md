@@ -23,10 +23,10 @@ This widget is based on the [polybar-kwm](https://github.com/CaptnBlubber/Polyba
 ## Installation
 
 ```bash
-git clone git@github.com:knazarov/ubersicht-polybar-widget.git "~/Library/Application Support/Übersicht/widgets/polybar"
+git clone git@github.com:nffdiogosilva/ubersicht-polybar-widget.git ~/Library/Application\ Support/Übersicht/widgets/polybar
 ```
 
-Download (or clone) this repository and place the contents inside a folder called `polybar` in your Übersicht widgets directory. By default the widget folder is located here: `~/Library/Application Support/Übersicht/widgets`
+Download (or clone) this repository and place the contents inside a folder called `polybar` in your Übersicht widgets directory. By default the widget folder is located here: `~/Library/Application\ Support/Übersicht/widgets`
 
 ## Prerequisites
 
